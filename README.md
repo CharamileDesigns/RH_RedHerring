@@ -1,26 +1,33 @@
 # `RH_1.0p` Red Herring
 
-Pint-sized mag-fed powerhouse hitting 220+ FPS, all while being operated *entirely* with one hand. Can be disassembled and reassembled without any tools in about 12 seconds.
+Pint-sized Talon-fed powerhouse hitting 220+ FPS, all while being operated *entirely* with one hand. Can be gutted and reassembled without any tools in about 12 seconds.
 
 ## What is this?
 
-The Red Herring is a magazine-fed spring-powered blaster that is designed for use with one hand.
+Have you ever wanted to snipe with one hand?
 
-This blaster does not compromise on performance and can hit upwards of 220 FPS without becoming impossible to prime. It is also capable of making accurate cross-field tags. This is in contrast to hammer-action blasters that are limited by piston volume and thumb strength, as well as flywheel blasters that are generally not as accurate as springers.
+The Red Herring is a Talon-fed spring blaster that is designed for one-handed use. Despite being about half the size of a Talon Claw, this thing has enough punch to make the cross-field shots that Hammershots can only dream of.
 
-## Why did you make this?
+## Why did you make this? 
 
-The Captain Slug Piranha 2m was a blaster designed with a similar use case in mind, but I was never happy with how mine worked. The Red Herring was designed to do everything better than the Piranha; it is lighter, smaller, safer, cheaper, and simpler.
+The Captain Slug Piranha 2m was a blaster designed with a similar use case in mind, but I was never happy with how mine worked. Red Herring was designed from the ground up to be a better Piranha.
+
+Safer, simpler, lighter, cheaper, and more efficient. 
 
 ## Single Hand Operation - Why is this blaster useful?
 
-**The short version:** You can now run a Worker Nightingale, shield, sword, or other item alongside a no-compromises 220 FPS springer.
+**The short version:** You can now hold a flag, shield, or Worker Nightingale while using a no-frills 220 FPS springer.
 
 Having an extra hand free during a game has a ton of utility, get creative and see what you can come up with!
 
-My personal favorite way to run this blaster is to keep a pool noodle sword attached to my belt rig as a more reliable and courteous way of tagging people at close range, as opposed to point-blanking them with something that can hit over 200 FPS. Getting hit with something that hard from that close is painful, and jams or misfeeds could screw you over in what would otherwise have been a very quick and simple play. If your blaster jams, you will be tagged out. Pool noodles don't jam or hurt people.
+My personal favorite way to run this blaster is to keep a pool noodle sword attached to my belt rig as a more reliable and courteous way of tagging people at close range; nobody likes getting point-blanked at 200 FPS. Getting hit with something that hard from that close is painful, and jams or misfeeds can screw over an otherwise effective flank. Melee never jams, and frantically waving a sword around is a fantastic way to catch people off guard during a flank!
 
-Flag pushes during Capture the Flag leave the runner vulnerable as they have to dedicate at least one hand to carrying the flag. Flywheels are usually a good choice for pushes as they are better at keeping opponents back and taking out anyone who happens to be in the general direction you fire, but having a springer opens up some interesting new possibilities if you can pick off other springer users trying to guard the flag areas.
+The most exhilerating thing I have tried has been running a stockless Gryphon in my other hand. Flywheel volume and springer distance at the same time is just too much fun; you can go from back-and-fowrward with an opponent's Caliburn to bum rushing them before they even know what you're doing, while *still* being able to return a shot or two from your own springer.
 
-In other games that involve carrying objects, you will be able to outrange any flywheel players who also happen to be carrying things. My group has a game mode called Ultradash where each team is given a beacon that flashes and changes colors. Points are scored by running the beacon to the corresponding color station on the field, then repeating for whatever color it flashes next. I ran a Red Herring prototype during this game and absolutely *dominated* as runner because I was able to tag out springer users when I saw them before they saw me; the colors are randomized and there's no way to know where a runner may pop out from next.
+Games that involve carrying an object such as Carpe or Capture the Flag usually favor flywheelers. Until now, they were the only effective blasters that could be used while carrying things. Red Herring takes that dynamic and flips it on its head; you are now capable of outranging any runners on the field while also being a runner yourself. 
 
+## Tool-free disassembly
+
+This blaster is designed with a springloaded latch at the front that allows the barrel to be detached with a click and a twist, after which the entire plunger assembly can be dumped out the front for cleaning and spring swaps. Reassembly takes less than 20 seconds; my spring swap time trial record is 12.
+
+## 
